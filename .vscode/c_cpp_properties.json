@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/cpp",
+                "${workspaceFolder}/cpp/**"
+            ],
+            "defines": [],
+            "compilerPath": "C:/msys64/mingw64/bin/g++.exe",   // if using MinGW
+            "cStandard": "c11",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "windows-gcc-x64"              // or "windows-msvc-x64" if using MSVC
+        }
+    ],
+    "version": 4
+}
